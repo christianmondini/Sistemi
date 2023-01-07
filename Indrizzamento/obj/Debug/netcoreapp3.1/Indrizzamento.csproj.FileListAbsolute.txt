@@ -1,0 +1,14 @@
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\bin\Debug\netcoreapp3.1\Indrizzamento.exe
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\bin\Debug\netcoreapp3.1\Indrizzamento.deps.json
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\bin\Debug\netcoreapp3.1\Indrizzamento.runtimeconfig.json
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\bin\Debug\netcoreapp3.1\Indrizzamento.runtimeconfig.dev.json
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\bin\Debug\netcoreapp3.1\Indrizzamento.dll
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\bin\Debug\netcoreapp3.1\Indrizzamento.pdb
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\obj\Debug\netcoreapp3.1\Indrizzamento.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\obj\Debug\netcoreapp3.1\Indrizzamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\obj\Debug\netcoreapp3.1\Indrizzamento.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\obj\Debug\netcoreapp3.1\Indrizzamento.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\obj\Debug\netcoreapp3.1\Indrizzamento.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\obj\Debug\netcoreapp3.1\Indrizzamento.dll
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\obj\Debug\netcoreapp3.1\Indrizzamento.pdb
+C:\Users\Christian\Desktop\Indrizzamento\Indrizzamento\obj\Debug\netcoreapp3.1\Indrizzamento.genruntimeconfig.cache
